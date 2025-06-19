@@ -48,6 +48,4 @@ This portfolio was crafted to highlight:
 💻 [GitHub](https://github.com/shreyabangar)
 
 ---
-> This portfolio isn't just a website — it's a digital reflection of how I blend design and development to create delightful user experiences.  
->  
 > — *Crafted with care by Shreya Bangar*
