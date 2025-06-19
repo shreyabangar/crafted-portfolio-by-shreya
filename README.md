@@ -49,8 +49,6 @@ This portfolio was crafted to highlight:
 
 ---
 
-## 🏁 Final Note
-
 > This portfolio isn't just a website — it's a digital reflection of how I blend design and development to create delightful user experiences.  
 >  
 > — *Crafted with care by Shreya Bangar*
