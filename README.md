@@ -1,6 +1,3 @@
-# crafted-portfolio-by-shreya
-A uniquely crafted portfolio showcasing motion design, and frontend finesse.
-
 # Crafted Portfolio by Shreya
 
 🎨 A personal frontend development portfolio — **designed, coded, and animated** with intent. Built to showcase creative interface design, interactive motion, and polished frontend skills.
